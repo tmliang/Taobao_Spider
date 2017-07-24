@@ -40,6 +40,11 @@ D:\Redis>redis-cli
 ```
 #### 6. 在终端中可看见爬取过程，数据存储在MangoDB的tbdb库的taobao表中（存储位置可在pipelines.py中修改）
 
+#### 7. 程序结束后，清除redis中的缓存
+```cmd
+127.0.0.1:6379> flushdb
+```
+
 ## 下面是一些爬取结果示例
 * 单个终端：
 
