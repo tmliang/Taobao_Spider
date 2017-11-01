@@ -3,7 +3,7 @@
 * pipelines.py : 后处理(Post-process)，存储爬取的数据
 * taobao.py : 爬虫程序
 * settings.py : Srapy设定，请参考 [内置设定参考手册 ](https://scrapy-chs.readthedocs.io/zh_CN/latest/topics/settings.html#topics-settings-ref)
-* 代码的详细分析在我的个人博客 www.liangtianming.com
+* 代码的详细分析在我的个人博客 [www.liangtianming.com](http://www.liangtianming.com/2017/07/23/taobao_spider/)
 * 问题和讨论可以发到我的邮箱 tm.liang@outlook.com
 * 不定期更新
 * 2017.7.23
