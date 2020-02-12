@@ -1,4 +1,5 @@
 # 基于Scrapy的Python3分布式淘宝爬虫
+## 注意: 此项目已失效，且不再更新
 * Items.py : 定义爬取的数据
 * pipelines.py : 后处理(Post-process)，存储爬取的数据
 * taobao.py : 爬虫程序
