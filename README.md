@@ -49,12 +49,12 @@ D:\Redis>redis-cli
 ## 下面是一些爬取结果示例
 * 单个终端：
 
-![](https://github.com/Leotemp/mymarkdownphoto/raw/master/taobao_img/f.png)
+![](https://github.com/tmliang/mymarkdownphoto/raw/master/taobao_img/f.png)
 
 * 多个终端：
 
-![](https://github.com/Leotemp/mymarkdownphoto/raw/master/taobao_img/h.png)
+![](https://github.com/tmliang/mymarkdownphoto/raw/master/taobao_img/h.png)
 
 * 数据库：
 
-![](https://github.com/Leotemp/mymarkdownphoto/raw/master/taobao_img/e.png)
+![](https://github.com/tmliang/mymarkdownphoto/raw/master/taobao_img/e.png)
